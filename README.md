@@ -1,3 +1,5 @@
+View this project on [CADLAB.io](https://cadlab.io/node/828). 
+
 # Dual Motor Driver with LM18200
 This project provides an easy way to control two independent motors using PWM.
 The H-bridges used are LM18200 which provides up to 3A continuous output for each motor.
